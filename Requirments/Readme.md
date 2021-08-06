@@ -69,7 +69,7 @@ Step 8 : Operational View Specification
 	
 <h3> Some hardware devices</h3>
 
-![](
+![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png)
 
 
 
