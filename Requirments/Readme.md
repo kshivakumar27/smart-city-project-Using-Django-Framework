@@ -69,7 +69,7 @@ Step 8 : Operational View Specification
 	
 <h3> Some hardware devices</h3>
 
-![Capacitor](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png)
+![Capacitor](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002717.png)
 
 
 ![Street lights](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002036.png)
