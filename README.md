@@ -2,10 +2,7 @@
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 
 
@@ -20,6 +17,18 @@
 | Design           | Documents specifying design details           |
 | Implementation   | All code and documentation                    |
 | Test Plan        | Documents with test plans and procedures      |
+
+
+<h1> This project contributed by </h1>
+
+| Name              | Features          | Issue raised |
+| ------------------|-------------------|--------------|
+| Shivakumar K      | Smart Monitering  |   Nill       |
+
+
+<h1> Learning Resources </h1>
+
+Youtube
 
 
 
