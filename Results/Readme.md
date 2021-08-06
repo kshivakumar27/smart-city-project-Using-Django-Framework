@@ -6,11 +6,11 @@ Various ways have been witnessed that Internet of Things is going to change our 
 ![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/s1.png)
 
 
-<h3>Loginpage</h3>
+<h3>AdminLoginpage</h3>
 
 ![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/s2.png)
 
-<h3>Admin login</h3>
+<h3>Sensors info and working model</h3>
 
 ![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/s3.png)
 
