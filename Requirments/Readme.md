@@ -42,8 +42,7 @@ Step 3 : Domain Model Specification
 
 
 Step 4 : Information model Specification
-
-Information model defines the structure of all the information in the IoT system. In smart gardening application there are two Virtual Entities – a virtual entity for Appliance with the attributes of Streetlights, plastic object detectors, temperature sensors and a virtual entity for water pumps. 
+	Information model defines the structure of all the information in the IoT system. In smart gardening application there are two Virtual Entities – a virtual entity for Appliance with the attributes of Streetlights, plastic object detectors, temperature sensors and a virtual entity for water pumps. 
 
 
 Step 5 : Service Specifications
@@ -60,11 +59,17 @@ Services by the node device which have unique identities and states can perform 
 
 
 Step 7 : Functional View Specification
-functional groups shows the mapping of deployment level to functional groups for smart gardening. 
+	functional groups shows the mapping of deployment level to functional groups for smart gardening. 
 IoT device maps to the device functional groups like sensors, actuators and computing devices and the management functional groups. Resources map to the device functional group and communication functional group. Web services maps to services functional group. Database maps to Management functional group where as Application maps to application functional group and security functional group.
 
 
 Step 8 : Operational View Specification
 	The eighth step is to define the operational view specifications. In this step various options pertaining to the IoT system deployment and operation are defined such as service hosting options, storage options, device options and application hosting options.
+	
+	
+<h3> Some hardware devices</h3>
+
+![](
+
 
 
