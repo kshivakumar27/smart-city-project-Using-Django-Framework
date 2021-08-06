@@ -1,3 +1,13 @@
+
+<h1>Requirements</h1>
+<h4>Hardware Requirements</h4>: sensors,aralms,camera,sprinklers,motors,capacitives,humidity meters,moisture meters,street lights
+<h4>Software requirments</h4>: Web application for monitoring users and admin,CCtv camera for 24/7 survivalence,Computers,wifi ,cloud support databases for admin and users,mobile apps,servers,
+
+
+
+
+
+
 Step 1 : Purpose and Requirement Specification 
 •	Purpose – The purpose of IoT gardening is to maintain the well-being of a garden using the power of the Internet of Things (IoT). With the help of present tools and software, planter is integrated with sensors that monitors the real-time status of the plants.
 
