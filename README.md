@@ -13,6 +13,7 @@
 
 
 <h1> Folder Structure </h1>
+
 | Folder           | Description                                   |
 | -----------------|-----------------------------------------------| 
 | Requirements     | Documents detailing requirements and research |
