@@ -5,15 +5,12 @@
 
 
 <h1> Folder Structure </h1>
-| Folder | Description |
-| :---         |     ---:      | 
-| Requirements | Documents detailing requirements and research |
-
-| Design | Documents specifying design details |
-
-| Implementation | All code and documentation |
-
-| Test Plan | Documents with test plans and procedures |
+| Folder           | Description                                   |
+| -----------------|-----------------------------------------------| 
+| Requirements     | Documents detailing requirements and research |
+| Design           | Documents specifying design details           |
+| Implementation   | All code and documentation                    |
+| Test Plan        | Documents with test plans and procedures      |
 
 
 
