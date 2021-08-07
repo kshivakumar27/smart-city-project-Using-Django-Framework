@@ -93,6 +93,16 @@ Various ways have been witnessed that Internet of Things is going to change our 
 |HR_05	|customer reviews |Implemented
 |HR_06	|Working devices info storing |Implemented
 
+
+
+<h2> Low level requirements</h2>
+
+|ID	|Description	|  Status  |
+|-------|---------------|----------|
+|SID_01	|Customer reviews info storing|Implemented
+|SID_02	|ALL sensors info added for helping customer to know about that |Implemented
+|SID_01	|Live recording of all devices working is shown to customer|Implemented
+
 	
 
 
