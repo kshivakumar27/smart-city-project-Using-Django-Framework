@@ -16,7 +16,7 @@
 | Requirements     | Documents detailing requirements and research |
 | Design           | Documents specifying design details           |
 | Implementation   | All code and documentation                    |
-| Test Plan        | Documents with test plans and procedures      |
+
 
 
 <h1> This project contributed by </h1>
