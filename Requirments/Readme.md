@@ -70,3 +70,54 @@ Step 8 : Operational View Specification
 <h3> Some hardware devices</h3>
 
 ![Capacitor](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002717.png)![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20003033.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/alarm.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/ras.png),![Street lights](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002036.png)
+
+
+
+
+
+Smart Streets /Areas
+
+ALl steps considered during this project when it actually happens in large process
+
+
+Planning
+
+Software teams builds web app and mobile apps
+Hardware team  is responsible for collecting all requirements
+Finance teams looks budget for  hardware requirements and software 
+Testing teams should be ready for removing all the problems comes in both hardware and software
+Maintainence teams look for servers and cost of maintaining softwares and removing all unworking hardware after installation.
+
+Design 
+
+All teams will be structured as a group or teams 
+And start designing the project mapping 
+Than providing exact amount of budget for designing the entire product
+
+Development
+
+Teams starts developments from the scratch and they have made life cycle of design anfd send it to testing teams whether the thing working right or not this cyble is called agile method,if the product needs another neet finishing we go for waterfall method and start  merging hardware and connecting software devices
+
+
+Testing
+This team responsible of identifying and blocking errors and send it to development team
+
+Final quality testing of all software and hardware before releasing it
+
+
+Release
+Final release of all designed product to and installing of software to markets
+
+Maintainance 
+
+Maintaining of hardware and software by providing installation  and security and removing unworking harwares 
+
+Reviews /Customer satisfactions
+Collecting all the reviews and send it requirements phase of projects again and we have to make sure that the cost of re changing whether the design or the softwares or any things
+
+Than the process startsfrom the beginning cycle continues
+
+
+
+
+
