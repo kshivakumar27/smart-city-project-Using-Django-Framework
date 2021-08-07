@@ -23,12 +23,7 @@ In this step the use cases of the IoT system are formally described based on and
 
 shows the process diagram for street lights and water pumps. The process diagram shows two modes of the system – auto and manual. When auto mode is chosen the system monitors the light level. If the light level is low, the system changes the light state to “on”. Where as if the light level is high, the system change the state of light to “off”. But in case of manual mode user will change the state of light.
 
-•	Service – The services provided by smart gardening system are as follows,
-	Drip irrigation system
-	App controlled water system
-	Automatic watering schedules
-	Database of the garden's health status
-	Real-time feedback of the garden's various sensors
+•	Service – The services provided by smart gardening system are as follows,Drip irrigation system,App controlled water system,Automatic watering schedules,Database of the garden's health status,Real-time feedback of the garden's various sensors
 
 	
 <h3> Some hardware devices</h3>
