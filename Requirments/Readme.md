@@ -7,28 +7,59 @@
 
 
 
-<h2>Introduction</h2>
-Step 1 : Purpose and Requirement Specification 
-•	Purpose – The purpose of IoT gardening is to maintain the well-being of a garden using the power of the Internet of Things (IoT). With the help of present tools and software, planter is integrated with sensors that monitors the real-time status of the plants.
+<h1>Introduction</h1>
 
-•	Behaviour – The IoT smart gardening has both auto and manual modes.
+Purpose and Requirement Specification 
+• The purpose of IoT gardening is to maintain the well-being of a garden using the power of the Internet of Things (IoT). With the help of present tools and software, planter is integrated with sensors that monitors the real-time status of the plants.
 
-•	System Management Requirements -   A Raspberry Pi is used to relay useful information of the garden, such as luminosity, humidity and the moisture content in the soil from various sensors into a cloud database. Once the information is in the cloud, it can be accessed from anywhere using a Smartphone app.
+• Behaviour – The IoT smart gardening has both auto and manual modes.
 
-•	Data Analysis Requirements – The system performs local Analysis of data, based on that it will decide whether to turn on street lights or to turn on water pumps.
+• System Management Requirements -   A Raspberry Pi is used to relay useful information of the garden, such as luminosity, humidity and the moisture content in the soil from various sensors into a cloud database. Once the information is in the cloud, it can be accessed from anywhere using a Smartphone app.
 
-Step 2 : Process Specification
+• Data Analysis Requirements – The system performs local Analysis of data, based on that it will decide whether to turn on street lights or to turn on water pumps.
 
-In this step the use cases of the IoT system are formally described based on and derived from the purpose and requirement specification.
+<h1>Objectives</h1>
 
-shows the process diagram for street lights and water pumps. The process diagram shows two modes of the system – auto and manual. When auto mode is chosen the system monitors the light level. If the light level is low, the system changes the light state to “on”. Where as if the light level is high, the system change the state of light to “off”. But in case of manual mode user will change the state of light.
+• The main objective is to show the process for street lights and water pumps working using sensors. The process diagram shows two modes of the system is auto and manual. When auto mode is chosen the system monitors the light level. If the light level is low, the system changes the light state to “on”. Where as if the light level is high, the system change the state of light to “off”. But in case of manual mode user will change the state of light.
 
-•	Service – The services provided by smart gardening system are as follows,Drip irrigation system,App controlled water system,Automatic watering schedules,Database of the garden's health status,Real-time feedback of the garden's various sensors
+• Service – The services provided by smart gardening system are as follows,Drip irrigation system,App controlled water system,Automatic watering schedules,Database of the garden's health status,Real-time feedback of the garden's various sensors
+
+
+
+
+
+<h1>Research work</h1>
+
+• Technology brings a remarkable advancement in every field of life, whether its industry or agriculture and our lives are essentially dependent on agricultural development.
+
+• Researchers are working to integrate modern technologies in agriculture to develop new practices for the enhancement of healthy agriculture and production.
+
+•Internet of things is a domain of computer science that provides mechanisms and techniques to interconnect a wide range of digital devices to automate the real-life systems.
+
+• This research work has proposed an IoT based approach for smart garden monitoring using microcontroller that helps the users in identifying current parameters of temperature, moisture, and humidity of their homegrown plants and gardens. 
+
+• An android mobile application has been developed to display the real-time profiles of environmental factors like temperature, moisture, and humidity. With the help of this system, users will be able to treat their gardens in a better way in terms of plant health and growth
+
+• This research work replaces the need for gardeners and issues faced during the maintenance of gardens in big cities. The purpose of this research is to introduce and prosper the IoT innovation towards smart cities in our society.
+
+
 
 	
 <h3> Some hardware devices</h3>
 
 ![Capacitor](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002717.png)![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20003033.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/alarm.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/ras.png),![Street lights](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002036.png)
+
+
+
+<h1> Cost and Features </h1>
+<h4>Cost vs Features</h4>
+For smart gardening it requires n numbers of hardware devices and softares to maintain the hardware,monitering them 24/7 is too cost,When comes to vfeatures it has everything going to be robotic process,clean environment,using ogf natural resources and making environment clean
+
+<h2>Features </h2>
+Features are like every work is done and monitered as robotic process using human reviews  
+
+<h1>Defining the System</h1>
+In this project we presented the architecture and the implementation of a smart gardening system. The system consists of two types of sensors motes (DHT11,DHT22,Capacitive and IR sensor), special soil humidity sensors, with the use of relays python application that is used for data collection. Performance evaluation showed that our system manages to maintain soil humidity levels regardless of external factors (i.e. variations at temperature and sunlight). It also proved that the system is aware of the different watering needs each.
 
 
 
