@@ -63,10 +63,11 @@ In this project we presented the architecture and the implementation of a smart 
 
 
 <h2>4W's and 1'H</h2>
+
 <h3>Who:</h3>
 The project helps to reduce human efforts and makes city clean.
 
-<h3><h3>What:</h3>
+<h3>What:</h3>
 The project concentrates on making city smartly working as remotly with robotics process.
 
 <h3>When:</h3>
@@ -77,6 +78,22 @@ It can be included in the polluted cities to avoid all the future problems of en
 
 <h3>How:</h3>
 Various ways have been witnessed that Internet of Things is going to change our lives soon. Gardening is also surely to be a subject of this new technology. In this we have done the potentials how the IoT technology can be linked to smart gardening activities as a smart system. This system does not just provide easiness to gardening, but also facilitates a new culture where people desire a quality of life and well-being especially in an aging society. It seems that there are already a number of automated smart gardening systems, but there is still big room for improvement with the IoT technology.
+	
+	
+<h2>Detailed requirement</h2>
+
+<h2> High level requirements</h2>
+
+|ID	|Description	|  Status  |
+|-------|---------------|----------|
+|HR_01	|In hardware senosr,generators,alarms,cctv,sprinklers,motors,raspbery pi|Implemented
+|HR_02	|In software Amin,Users|Implemented
+|HR_03	|Data security for users(Authentication has included)|Implemented
+|HR_04	|Websites working info|Implemented
+|HR_05	|customer reviews |Implemented
+|HR_06	|Working devices info storing |Implemented
+
+	
 
 
 
