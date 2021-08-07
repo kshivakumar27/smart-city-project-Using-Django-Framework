@@ -12,4 +12,8 @@
 
 
 <h2>Tools used</h2>
-Dia tool
+For information about UML Diagrams refer: UML Diagrams
+Draw.io
+Creately
+DIA
+or any other free tools
