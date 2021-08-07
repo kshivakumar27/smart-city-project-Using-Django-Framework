@@ -23,16 +23,6 @@ In this step the use cases of the IoT system are formally described based on and
 
 shows the process diagram for street lights and water pumps. The process diagram shows two modes of the system – auto and manual. When auto mode is chosen the system monitors the light level. If the light level is low, the system changes the light state to “on”. Where as if the light level is high, the system change the state of light to “off”. But in case of manual mode user will change the state of light.
 
-Step 3 : Domain Model Specification 
-
-•	Physical Entity – The Physical Entity is a discrete and identifiable entity in the physical environment (e.g., plants, soil, light, etc.). The IoT system provides information about the physical entity by using sensors and performs actuation upon the Physical Entity like switching on a light.
-
-•	Virtual Entity -  Virtual entity is the representation of physical entity in the digital world. For each physical entity, there is a virtual entity in domain model. In the IoT smart gardening there is one virtual entity for Appliance and one more virtual entity for lights.
-
-•	Device – Device provide a medium for communication between physical entity and virtual entity. Devices are used to gather information about physical entity and perform actuations upon physical entities. Device used in smart gardening is minicomputer.
-
-•	Resources – Resource are soft component which can be either “on-device” or “network resources”. On-device Resource used in smart gardening is operating system that runs on the single board mini computer.
-
 •	Service – The services provided by smart gardening system are as follows,
 	Drip irrigation system
 	App controlled water system
@@ -45,51 +35,6 @@ Step 3 : Domain Model Specification
 
 ![Capacitor](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20001533.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002717.png)![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20003033.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/alarm.png),![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/ras.png),![Street lights](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/Annotation%202020-06-18%20002036.png)
 
-
-
-
-
-Smart Streets /Areas
-
-ALl steps considered during this project when it actually happens in large process
-
-
-Planning
-
-Software teams builds web app and mobile apps
-Hardware team  is responsible for collecting all requirements
-Finance teams looks budget for  hardware requirements and software 
-Testing teams should be ready for removing all the problems comes in both hardware and software
-Maintainence teams look for servers and cost of maintaining softwares and removing all unworking hardware after installation.
-
-Design 
-
-All teams will be structured as a group or teams 
-And start designing the project mapping 
-Than providing exact amount of budget for designing the entire product
-
-Development
-
-Teams starts developments from the scratch and they have made life cycle of design anfd send it to testing teams whether the thing working right or not this cyble is called agile method,if the product needs another neet finishing we go for waterfall method and start  merging hardware and connecting software devices
-
-
-Testing
-This team responsible of identifying and blocking errors and send it to development team
-
-Final quality testing of all software and hardware before releasing it
-
-
-Release
-Final release of all designed product to and installing of software to markets
-
-Maintainance 
-
-Maintaining of hardware and software by providing installation  and security and removing unworking harwares 
-
-Reviews /Customer satisfactions
-Collecting all the reviews and send it requirements phase of projects again and we have to make sure that the cost of re changing whether the design or the softwares or any things
-
-Than the process startsfrom the beginning cycle continues
 
 
 
