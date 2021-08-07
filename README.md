@@ -1,5 +1,6 @@
 
-
+<h1> Smart gardening using IOT technology</h1>
+Various ways have been witnessed that Internet of Things is going to change our lives soon. Gardening is also surely to be a subject of this new technology. In this we have done the potentials how the IoT technology can be linked to smart gardening activities as a smart system. This system does not just provide easiness to gardening, but also facilitates a new culture where people desire a quality of life and well-being especially in an aging society. It seems that there are already a number of automated smart gardening systems, but there is still big room for improvement with the IoT technology.
 
 
 
