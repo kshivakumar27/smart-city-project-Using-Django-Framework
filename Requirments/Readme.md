@@ -62,6 +62,23 @@ Features are like every work is done and monitered as robotic process using huma
 In this project we presented the architecture and the implementation of a smart gardening system. The system consists of two types of sensors motes (DHT11,DHT22,Capacitive and IR sensor), special soil humidity sensors, with the use of relays python application that is used for data collection. Performance evaluation showed that our system manages to maintain soil humidity levels regardless of external factors (i.e. variations at temperature and sunlight). It also proved that the system is aware of the different watering needs each.
 
 
+<h2>4W's and 1'H</h2>
+<h3>Who:</h3>
+The project helps to reduce human efforts and makes city clean.
+
+<h3><h3>What:</h3>
+The project concentrates on making city smartly working as remotly with robotics process.
+
+<h3>When:</h3>
+This method can be included in all undeveloped cities
+
+<h3>Where:</h3>
+It can be included in the polluted cities to avoid all the future problems of environment
+
+<h3>How:</h3>
+Various ways have been witnessed that Internet of Things is going to change our lives soon. Gardening is also surely to be a subject of this new technology. In this we have done the potentials how the IoT technology can be linked to smart gardening activities as a smart system. This system does not just provide easiness to gardening, but also facilitates a new culture where people desire a quality of life and well-being especially in an aging society. It seems that there are already a number of automated smart gardening systems, but there is still big room for improvement with the IoT technology.
+
+
 
 
 
