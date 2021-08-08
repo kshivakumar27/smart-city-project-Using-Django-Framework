@@ -1,7 +1,32 @@
+<h1>Test plan and Test output</h1>
+
+<h2>Integration test (High level test)</h2>
+
+• Function integrating software and harwdware devices for conitnues value recording- Requirement based test - Passing
+
+• Function integrating hardware to website which can user view from there mibile through website - Requirement based test - Passing
+
+• Functioning all user data and admin are securly stored and maintained - Requirement based test - Passing
+
+
+<h2>Unit Test (Low level test)</h2>
+
+• User reviews are openly displayed and taken for consideration for remodeling project requrements- Compulsary test - Passing
+
+• Live recorded data available in website and mobile apps - Compulsary test - Passing
+
+
+
+
+
+
+
+<h4> My project website screenshots</h4>
+
+
+
 In this project we presented the architecture and the implementation of a smart gardening system. The system consists of two types of sensors motes (DHT11,DHT22,Capacitive and IR sensor), special soil humidity sensors, with the use of relays python application that is used for data collection. Performance evaluation showed that our system manages to maintain soil humidity levels regardless of external factors (i.e. variations at temperature and sunlight). It also proved that the system is aware of the different watering needs each.
 
-Various ways have been witnessed that Internet of Things is going to change our lives soon. Gardening is also surely to be a subject of this new technology. In this we have done the potentials how the IoT technology can be linked to smart gardening activities as a smart system. This system does not just provide easiness to gardening, but also facilitates a new culture where people desire a quality of life and well-being especially in an aging society. It seems that there are already a number of automated smart gardening systems, but there is still big room for improvement with the IoT technology
-<h3>Home page of website</h3>
 
 ![](https://github.com/Shivkumargowdru/smart-park/blob/main/Images/s1.png)
 
