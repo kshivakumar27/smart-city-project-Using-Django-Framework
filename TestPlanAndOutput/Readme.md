@@ -4,7 +4,7 @@
 
 • Function integrating software and harwdware devices for conitnues value recording- Requirement based test - Passing
 
-• Function integrating hardware to website which can user view from there mibile through website - Requirement based test - Passing
+• Function integrating hardware to website which can user view from there mobile through website - Requirement based test - Passing
 
 • Functioning all user data and admin are securly stored and maintained - Requirement based test - Passing
 
