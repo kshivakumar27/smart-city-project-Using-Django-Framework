@@ -15,8 +15,11 @@
 
 • Live recorded data available in website and mobile apps - Compulsary test - Passing
 
+Storing all live data - passing
 
+working of hardwares - passing
 
+Regular update of sensors data - passing
 
 
 
